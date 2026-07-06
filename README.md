@@ -57,3 +57,57 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleye
 ## 📄 Lisans
 
 Bu proje eğitim ve kişisel gelişim amaçlı (SoftIto) oluşturulmuştur.
+
+## 📸 Ekran Görüntüleri (Screenshots)
+
+E-ticaret sisteminin kullanıcı arayüzüne ve yönetim paneline ait ekran görüntülerine aşağıdan ulaşabilirsiniz:
+
+### 🌐 Ana Sayfa
+![Ana Sayfa](assets/screenshots/anasayfa.png)
+
+---
+
+### 🛍️ Ürün ve Kategori Gösterimi
+Sistemde yer alan kategorilerin ve bu kategorilere ait ürünlerin listelendiği ekranlar:
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <strong>Kategoriler (Categories)</strong><br />
+      <img src="assets/screenshots/categories.png" alt="Kategoriler Listesi" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <strong>Ürünler (Products)</strong><br />
+      <img src="assets/screenshots/products.png" alt="Ürünler Listesi" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <strong>Kategoriye Göre Ürünler</strong><br />
+      <img src="assets/screenshots/products_by_categories.png" alt="Kategori Bazlı Ürünler" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 👥 Müşteri ve Sipariş Yönetimi
+Kayıtlı müşterilerin ve oluşturulan siparişlerin takip edildiği listeleme ekranları:
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <strong>Müşteriler (Customers)</strong><br />
+      <img src="assets/screenshots/customers.png" alt="Müşteriler Listesi" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <strong>Siparişler (Orders)</strong><br />
+      <img src="assets/screenshots/orders.png" alt="Siparişler Listesi" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Yönetim Paneli (Admin Area)
+Sistemin genel kontrolünün sağlandığı admin arayüzü:
+
+![Admin Paneli](assets/screenshots/admin.png)
